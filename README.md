@@ -121,7 +121,9 @@ downsample = 3
 
 ## License
 
-MaSIF-mimicry is released under an [Apache v2.0 license](LICENSE).
+Original MaSIF-mimicry code is released under the [MIT License](LICENSE).
+
+MaSIF-mimicry builds on [MaSIF](https://github.com/LPDI-EPFL/masif) and [MaSIF-seed](https://github.com/LPDI-EPFL/masif_seed), which are licensed under the Apache License 2.0. Portions adapted from those projects remain under Apache 2.0; see the [third-party notices](THIRD_PARTY_NOTICES.md) and the included [Apache License 2.0](LICENSES/Apache-2.0.txt). Other third-party dependencies retain their respective licenses.
 
 ## Reference
 If you use this code, please use the bibtex entry in [citation.bib](citation.bib)
